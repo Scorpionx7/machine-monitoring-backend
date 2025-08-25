@@ -1,0 +1,6 @@
+@MachineMonitoring_HostAddress = http://localhost:5287
+
+GET {{MachineMonitoring_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

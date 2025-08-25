@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Qk+LU1PYcAfdSnvs2NXQikkbB1UiCKWG6No4yKhTZ1Y=",
+  "Source": "MachineMonitoring",
+  "BasePath": "_content/MachineMonitoring",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
