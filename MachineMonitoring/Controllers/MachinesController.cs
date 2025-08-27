@@ -37,7 +37,7 @@ public class MachinesController : ControllerBase
         {
             Name = createDto.Name,
             Location = createDto.Location,
-            Status = MachineStatus.Desligada 
+            Status = createDto.Status
         };
 
         var newMachine = await _machineService.CreateMachineAsync(machine);
